@@ -1,0 +1,21 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: theboi/github-update-readme@v1.3.0
+        with:
+          header: |
+            # Hi, I'm Lalit Rao 👋
+
+            Data Analyst | Power BI | Tableau | SQL | Excel
+          repoCount: "6"
+          reposPerRow: "3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
