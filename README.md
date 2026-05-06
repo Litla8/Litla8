@@ -11,13 +11,13 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 
 ---
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | [lprhodes/pageindex-ts](https://github.com/lprhodes/pageindex-ts) | [avelino/awesome-go](https://github.com/avelino/awesome-go) |
+| [Litla8/student-performance-analysis](https://github.com/Litla8/student-performance-analysis) | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | [lprhodes/pageindex-ts](https://github.com/lprhodes/pageindex-ts) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/VectifyAI/PageIndex"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="VectifyAI/PageIndex" title="VectifyAI/PageIndex" width="200" height="200"></a> | <a href="https://github.com/lprhodes/pageindex-ts"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="lprhodes/pageindex-ts" title="lprhodes/pageindex-ts" width="200" height="200"></a> | <a href="https://github.com/avelino/awesome-go"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="avelino/awesome-go" title="avelino/awesome-go" width="200" height="200"></a> |
+| <a href="https://github.com/Litla8/student-performance-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/student-performance-analysis" title="Litla8/student-performance-analysis" width="200" height="200"></a> | <a href="https://github.com/VectifyAI/PageIndex"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="VectifyAI/PageIndex" title="VectifyAI/PageIndex" width="200" height="200"></a> | <a href="https://github.com/lprhodes/pageindex-ts"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="lprhodes/pageindex-ts" title="lprhodes/pageindex-ts" width="200" height="200"></a> |
 
-| [Litla8/IPL_Github_Data_files_project](https://github.com/Litla8/IPL_Github_Data_files_project) | [Litla8/Litla8](https://github.com/Litla8/Litla8) | [Litla8/uber-data-analysis](https://github.com/Litla8/uber-data-analysis) |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | [Litla8/IPL_Github_Data_files_project](https://github.com/Litla8/IPL_Github_Data_files_project) | [Litla8/Litla8](https://github.com/Litla8/Litla8) |
 | :-: | :-: | :-: |
-| <a href="https://github.com/Litla8/IPL_Github_Data_files_project"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/IPL_Github_Data_files_project" title="Litla8/IPL_Github_Data_files_project" width="200" height="200"></a> | <a href="https://github.com/Litla8/Litla8"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/Litla8" title="Litla8/Litla8" width="200" height="200"></a> | <a href="https://github.com/Litla8/uber-data-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/uber-data-analysis" title="Litla8/uber-data-analysis" width="200" height="200"></a> |
+| <a href="https://github.com/avelino/awesome-go"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="avelino/awesome-go" title="avelino/awesome-go" width="200" height="200"></a> | <a href="https://github.com/Litla8/IPL_Github_Data_files_project"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/IPL_Github_Data_files_project" title="Litla8/IPL_Github_Data_files_project" width="200" height="200"></a> | <a href="https://github.com/Litla8/Litla8"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/Litla8" title="Litla8/Litla8" width="200" height="200"></a> |
 
 
 
