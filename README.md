@@ -52,7 +52,7 @@ Currently building a portfolio of real-world data analytics projects using Pytho
 | Dataset | Simulated (50 students, 5 subjects) |
 | GitHub Repo | [student-performance-analysis](https://github.com/Litla8/student-performance-analysis) |
 | Live Webpage | [GitHub Pages](https://litla8.github.io/student-performance-analysis/) |
-| Kaggle Notebook | [View on Kaggle](PASTE-YOUR-KAGGLE-LINK-HERE) |
+| Kaggle Notebook | [View on Kaggle](https://www.kaggle.com/code/lalitraos/student-performance-analysis-system) |
 
 **Key Highlights:**
 - Generated a 50-student dataset using NumPy random functions
@@ -71,8 +71,8 @@ Currently building a portfolio of real-world data analytics projects using Pytho
 | Tech Stack | Python, NumPy, Pandas, Matplotlib, Seaborn |
 | Dataset | Sample Superstore Sales Dataset (Kaggle) |
 | GitHub Repo | [retail-sales-analysis](https://github.com/Litla8/retail-sales-analysis) |
-| Live Webpage | [GitHub Pages](PASTE-YOUR-GITHUB-PAGES-LINK-HERE) |
-| Kaggle Notebook | [View on Kaggle](PASTE-YOUR-KAGGLE-LINK-HERE) |
+| Live Webpage | [GitHub Pages](https://litla8.github.io/retail-sales-analysis/) |
+| Kaggle Notebook | [View on Kaggle](https://www.kaggle.com/code/lalitraos/sales-dashboard) |
 
 **Key Highlights:**
 - Cleaned and engineered features including Year, Month, Quarter, Profit Margin, and Sales Category
