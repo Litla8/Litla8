@@ -1,0 +1,28 @@
+name: Litla8
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # run every 6 hours (UTC)
+  workflow_dispatch:        # allow manual run from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update profile README
+        uses: theboi/github-update-readme@v1.3.0
+        with:
+          header: |
+            # Hi, I'm Lalit Rao 👋
+
+            Data Analyst | Power BI | Tableau | SQL | Excel
+
+            - 🧠 I work with data analytics and BI
+            - 📊 Tools: Power BI, Tableau, Excel, SQL, Python
+            - 📍 Based in Delhi, India
+            - 🔗 Check out my projects below 👇
+          repoCount: "6"
+          reposPerRow: "3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

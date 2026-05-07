@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Lalit Rao</h1>
 <h3 align="center">Aspiring Data Analyst | Python • Pandas • NumPy • Matplotlib | Gurgaon, India 🇮🇳</h3>
 
@@ -115,3 +116,30 @@ Currently building a portfolio of real-world data analytics projects using Pytho
 </p>
 
 <p align="center">⭐ <i>If you find my projects useful, please consider starring them — it motivates me to keep building!</i> ⭐</p>
+=======
+## # Hi, I'm Lalit Rao 👋
+
+Data Analyst | Power BI | Tableau | SQL | Excel
+
+- 🧠 I work with data analytics and BI
+- 📊 Tools: Power BI, Tableau, Excel, SQL, Python
+- 📍 Based in Delhi, India
+- 🔗 Check out my projects below 👇
+
+
+
+---
+
+| [Litla8/retail-sales-analysis](https://github.com/Litla8/retail-sales-analysis) | [Litla8/student-performance-analysis](https://github.com/Litla8/student-performance-analysis) | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/Litla8/retail-sales-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/retail-sales-analysis" title="Litla8/retail-sales-analysis" width="200" height="200"></a> | <a href="https://github.com/Litla8/student-performance-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/student-performance-analysis" title="Litla8/student-performance-analysis" width="200" height="200"></a> | <a href="https://github.com/VectifyAI/PageIndex"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="VectifyAI/PageIndex" title="VectifyAI/PageIndex" width="200" height="200"></a> |
+
+| [lprhodes/pageindex-ts](https://github.com/lprhodes/pageindex-ts) | [avelino/awesome-go](https://github.com/avelino/awesome-go) | [Litla8/IPL_Github_Data_files_project](https://github.com/Litla8/IPL_Github_Data_files_project) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/lprhodes/pageindex-ts"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="lprhodes/pageindex-ts" title="lprhodes/pageindex-ts" width="200" height="200"></a> | <a href="https://github.com/avelino/awesome-go"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="avelino/awesome-go" title="avelino/awesome-go" width="200" height="200"></a> | <a href="https://github.com/Litla8/IPL_Github_Data_files_project"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/IPL_Github_Data_files_project" title="Litla8/IPL_Github_Data_files_project" width="200" height="200"></a> |
+
+
+
+---
+
+>>>>>>> 55f2e92978697b5d8b76229290596cc79b011ca3
