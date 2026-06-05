@@ -15,9 +15,9 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 | :-: | :-: | :-: |
 | <a href="https://github.com/Litla8/shopsmart-sql-project."><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/shopsmart-sql-project." title="Litla8/shopsmart-sql-project." width="200" height="200"></a> | <a href="https://github.com/Litla8/Litla8"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/Litla8" title="Litla8/Litla8" width="200" height="200"></a> | <a href="https://github.com/Litla8/retail-sales-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/retail-sales-analysis" title="Litla8/retail-sales-analysis" width="200" height="200"></a> |
 
-| [Litla8/student-performance-analysis](https://github.com/Litla8/student-performance-analysis) | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | [lprhodes/pageindex-ts](https://github.com/lprhodes/pageindex-ts) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/Litla8/student-performance-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/student-performance-analysis" title="Litla8/student-performance-analysis" width="200" height="200"></a> | <a href="https://github.com/VectifyAI/PageIndex"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="VectifyAI/PageIndex" title="VectifyAI/PageIndex" width="200" height="200"></a> | <a href="https://github.com/lprhodes/pageindex-ts"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="lprhodes/pageindex-ts" title="lprhodes/pageindex-ts" width="200" height="200"></a> |
+| [Litla8/student-performance-analysis](https://github.com/Litla8/student-performance-analysis) |
+| :-: |
+| <a href="https://github.com/Litla8/student-performance-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/student-performance-analysis" title="Litla8/student-performance-analysis" width="200" height="200"></a> |
 
 
 
