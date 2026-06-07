@@ -11,9 +11,9 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 
 ---
 
-| [Litla8/shopsmart-sql-project.](https://github.com/Litla8/shopsmart-sql-project.) | [Litla8/Litla8](https://github.com/Litla8/Litla8) | [Litla8/retail-sales-analysis](https://github.com/Litla8/retail-sales-analysis) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/Litla8/shopsmart-sql-project."><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/shopsmart-sql-project." title="Litla8/shopsmart-sql-project." width="200" height="200"></a> | <a href="https://github.com/Litla8/Litla8"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/Litla8" title="Litla8/Litla8" width="200" height="200"></a> | <a href="https://github.com/Litla8/retail-sales-analysis"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/retail-sales-analysis" title="Litla8/retail-sales-analysis" width="200" height="200"></a> |
+| [Litla8/shopsmart-sql-project.](https://github.com/Litla8/shopsmart-sql-project.) |
+| :-: |
+| <a href="https://github.com/Litla8/shopsmart-sql-project."><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/shopsmart-sql-project." title="Litla8/shopsmart-sql-project." width="200" height="200"></a> |
 
 
 
