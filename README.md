@@ -11,10 +11,6 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 
 ---
 
-| [Litla8/shopsmart-sql-project.](https://github.com/Litla8/shopsmart-sql-project.) |
-| :-: |
-| <a href="https://github.com/Litla8/shopsmart-sql-project."><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/shopsmart-sql-project." title="Litla8/shopsmart-sql-project." width="200" height="200"></a> |
-
 
 
 ---
