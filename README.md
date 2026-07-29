@@ -15,10 +15,6 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 | :-: | :-: | :-: |
 | <a href="https://github.com/Shubhamsaboo/awesome-llm-apps"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Shubhamsaboo/awesome-llm-apps" title="Shubhamsaboo/awesome-llm-apps" width="200" height="200"></a> | <a href="https://github.com/Alishahryar1/free-claude-code"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Alishahryar1/free-claude-code" title="Alishahryar1/free-claude-code" width="200" height="200"></a> | <a href="https://github.com/shareAI-lab/learn-claude-code"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="shareAI-lab/learn-claude-code" title="shareAI-lab/learn-claude-code" width="200" height="200"></a> |
 
-| [Litla8/Uber-data-finds-using-colab](https://github.com/Litla8/Uber-data-finds-using-colab) |
-| :-: |
-| <a href="https://github.com/Litla8/Uber-data-finds-using-colab"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/Uber-data-finds-using-colab" title="Litla8/Uber-data-finds-using-colab" width="200" height="200"></a> |
-
 
 
 ---
