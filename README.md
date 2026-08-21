@@ -15,9 +15,9 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 | :-: | :-: | :-: |
 | <a href="https://github.com/Litla8/virtual-insurance-agent"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/virtual-insurance-agent" title="Litla8/virtual-insurance-agent" width="200" height="200"></a> | <a href="https://github.com/Leonxlnx/taste-skill"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Leonxlnx/taste-skill" title="Leonxlnx/taste-skill" width="200" height="200"></a> | <a href="https://github.com/emilkowalski/skills"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="emilkowalski/skills" title="emilkowalski/skills" width="200" height="200"></a> |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/pbakaus/impeccable"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="pbakaus/impeccable" title="pbakaus/impeccable" width="200" height="200"></a> | <a href="https://github.com/Shubhamsaboo/awesome-llm-apps"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Shubhamsaboo/awesome-llm-apps" title="Shubhamsaboo/awesome-llm-apps" width="200" height="200"></a> | <a href="https://github.com/Alishahryar1/free-claude-code"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Alishahryar1/free-claude-code" title="Alishahryar1/free-claude-code" width="200" height="200"></a> |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| :-: | :-: |
+| <a href="https://github.com/pbakaus/impeccable"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="pbakaus/impeccable" title="pbakaus/impeccable" width="200" height="200"></a> | <a href="https://github.com/Shubhamsaboo/awesome-llm-apps"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Shubhamsaboo/awesome-llm-apps" title="Shubhamsaboo/awesome-llm-apps" width="200" height="200"></a> |
 
 
 
