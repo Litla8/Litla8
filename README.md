@@ -11,13 +11,9 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 
 ---
 
-| [taspinar/siml](https://github.com/taspinar/siml) | [Litla8/virtual-insurance-agent](https://github.com/Litla8/virtual-insurance-agent) | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
-| :-: | :-: | :-: |
-| <a href="https://github.com/taspinar/siml"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="taspinar/siml" title="taspinar/siml" width="200" height="200"></a> | <a href="https://github.com/Litla8/virtual-insurance-agent"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/virtual-insurance-agent" title="Litla8/virtual-insurance-agent" width="200" height="200"></a> | <a href="https://github.com/Leonxlnx/taste-skill"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Leonxlnx/taste-skill" title="Leonxlnx/taste-skill" width="200" height="200"></a> |
-
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
+| [taspinar/siml](https://github.com/taspinar/siml) | [Litla8/virtual-insurance-agent](https://github.com/Litla8/virtual-insurance-agent) |
 | :-: | :-: |
-| <a href="https://github.com/emilkowalski/skills"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="emilkowalski/skills" title="emilkowalski/skills" width="200" height="200"></a> | <a href="https://github.com/pbakaus/impeccable"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="pbakaus/impeccable" title="pbakaus/impeccable" width="200" height="200"></a> |
+| <a href="https://github.com/taspinar/siml"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="taspinar/siml" title="taspinar/siml" width="200" height="200"></a> | <a href="https://github.com/Litla8/virtual-insurance-agent"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/virtual-insurance-agent" title="Litla8/virtual-insurance-agent" width="200" height="200"></a> |
 
 
 
