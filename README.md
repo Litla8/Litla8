@@ -11,9 +11,9 @@ Data Analyst | Power BI | Tableau | SQL | Excel
 
 ---
 
-| [Litla8/review-intelligence-nlp](https://github.com/Litla8/review-intelligence-nlp) | [Litla8/retail-demand-forecasting](https://github.com/Litla8/retail-demand-forecasting) |
-| :-: | :-: |
-| <a href="https://github.com/Litla8/review-intelligence-nlp"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/review-intelligence-nlp" title="Litla8/review-intelligence-nlp" width="200" height="200"></a> | <a href="https://github.com/Litla8/retail-demand-forecasting"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/retail-demand-forecasting" title="Litla8/retail-demand-forecasting" width="200" height="200"></a> |
+| [Litla8/fraud-detection](https://github.com/Litla8/fraud-detection) | [Litla8/review-intelligence-nlp](https://github.com/Litla8/review-intelligence-nlp) | [Litla8/retail-demand-forecasting](https://github.com/Litla8/retail-demand-forecasting) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/Litla8/fraud-detection"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/fraud-detection" title="Litla8/fraud-detection" width="200" height="200"></a> | <a href="https://github.com/Litla8/review-intelligence-nlp"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/review-intelligence-nlp" title="Litla8/review-intelligence-nlp" width="200" height="200"></a> | <a href="https://github.com/Litla8/retail-demand-forecasting"><img src="https://github.com/Litla8/Litla8/raw/master/DISPLAY.jpg" alt="Litla8/retail-demand-forecasting" title="Litla8/retail-demand-forecasting" width="200" height="200"></a> |
 
 
 
